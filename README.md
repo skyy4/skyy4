@@ -8,7 +8,7 @@
         <a href="mailto:sky593499@gmail.com" class="badge">
             <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
         </a>
-        <a href="https://www.linkedin.com/in/shashi-kumar-yadav-673252315" target="_blank" class="badge">
+        <a href="https://www.linkedin.com/in/skyy4" target="_blank" class="badge">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
     </div>
