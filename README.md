@@ -1,45 +1,68 @@
-<h1 align="center">Hi, I'm Shashi Kumar Yadav</h1>
-    <h3 align="center">A passionate web developer from India</h3>
-    <div align ="center">
-        <p>⚡ I’m currently working on <strong>**frontend development**</strong></p>
-        <p>💬 Ask me about <strong>**Html,Css,Js,Linux,DSA,Java,Python,C**</strong></p>
-        </div>
-        <div align ="center">
-        <a href="mailto:sky593499@gmail.com" class="badge">
-            <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-        </a>
-        <a href="https://www.linkedin.com/in/skyy4" target="_blank" class="badge">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-             <a href="https://skyy4.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+<h1 align="center">👋 Hi, I'm <span style="color:#FF5722;">Shashi Kumar Yadav</span></h1>
+<h3 align="center">🚀 A passionate Web Developer from India</h3>
+
+<p align="center">
+  ⚡ Currently diving deeper into <strong>UI/UX Design</strong><br>
+  💬 Ask me about <strong>React</strong> and <strong>Java</strong>
+</p>
+
+<div align="center">
+  <a href="mailto:sky593499@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-    </div>
-    <hr>
-    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-    <br>
-    <div align="center">
-    
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-            <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Python"
-                width="40" height="40"/> </a>
-            <a href="https://www.python.org/about/gettingstarted/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"
-                        width="40" height="40"/> </a>
-                        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                            width="40" height="40"/> </a>
-    </div>
-    <br/>
-    <hr>
-    <div align="center">
-        [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=skyy4&theme=holi-theme&hide_border=true&border_radius=50&mode=weekly)](https://git.io/streak-stats)
- <!--     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=skyy4&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> --> 
- <br/>
-        <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=skyy4&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    </div>
+  <a href="https://www.linkedin.com/in/skyy4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://skyy4.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 
-    
+---
 
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  </a>
+  <a href="https://www.w3schools.com/java/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C Language"/>
+  </a>
+</div>
+
+---
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=skyy4&theme=holi-theme&hide_border=true&border_radius=50&mode=weekly" alt="GitHub Streak"/>
+  </a>
+  <br/><br/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=skyy4&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" width="325"/>
+</div>
+
+---
+
+<p align="center" style="font-style: italic;">
+  "Code is like humor. When you have to explain it, it’s bad."
+</p>
